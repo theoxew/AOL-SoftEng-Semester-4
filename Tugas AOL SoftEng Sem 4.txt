@@ -1,0 +1,27 @@
+Kelompok 9:
+2702257406 - Colin Wilson 
+2702253023 - Nixon Raine Vicsant 
+2702275730 - Rainer Yesaya Villareal 
+2702287131 - Theo Xavier Edgard Wijaya 
+2702257343- Wilson Prajnawira
+
+
+Akun Github:
+ 
+https://github.com/Sonnn30
+
+Deskripsi AOL:
+Di tengah meningkatnya kesadaran akan pentingnya pelestarian lingkungan, daur ulang (recycling) telah menjadi salah satu solusi utama untuk mengurangi dampak negatif sampah terhadap bumi. Namun, daur ulang tidak hanya sekadar memilah sampah dan mengirimkannya ke pusat daur ulang. Ada potensi besar untuk mengubah bahan-bahan daur ulang menjadi barang-barang bernilai tinggi yang dapat digunakan kembali dalam kehidupan sehari-hari, seperti fashion, furnitur, aksesoris, dan produk kreatif lainnya. Sayangnya, banyak orang belum sepenuhnya memahami bagaimana memanfaatkan bahan daur ulang untuk menciptakan barang-barang yang fungsional dan estetis.
+
+Industri fashion, misalnya, merupakan salah satu penyumbang limbah terbesar di dunia. Setiap tahun, jutaan ton pakaian berakhir di tempat pembuangan akhir, sementara produksi tekstil baru terus menguras sumber daya alam. Padahal, bahan-bahan seperti kain bekas, botol plastik, atau bahkan ban mobil bisa diolah menjadi produk fashion yang stylish dan ramah lingkungan. Begitu pula dengan bahan-bahan lain seperti kertas, logam, atau kaca, yang bisa diubah menjadi furnitur unik, aksesoris, atau barang dekoratif.
+
+Namun, tantangan utama yang dihadapi adalah kurangnya pengetahuan dan inspirasi tentang bagaimana mengubah bahan daur ulang menjadi barang yang berguna. Banyak orang mungkin memiliki keinginan untuk berkreasi dengan bahan daur ulang, tetapi tidak tahu harus mulai dari mana atau bagaimana melakukannya. Selain itu, informasi tentang teknik daur ulang kreatif seringkali tersebar dan tidak terorganisir dengan baik, sehingga sulit diakses oleh masyarakat umum.
+
+Untuk mengatasi masalah ini, diperlukan sebuah platform web yang tidak hanya memberikan informasi tentang bahan-bahan yang dapat didaur ulang, tetapi juga menginspirasi dan memandu pengguna untuk mengubah bahan-bahan tersebut menjadi barang-barang berguna, seperti fashion, furnitur, atau produk kreatif lainnya. Hal ini sesuai dengan nilai SDG 12 yang dimana  SDG ini mempunyai nilai-nilai yang berfokus pada pengurangan jumlah sampah, dan memastikan sampah dapat dikelola dengan cara aman dan berkelanjutan. Ini sangat sesuai dengan ide platform ini, yang dimana  akan menjadi pusat informasi dan inspirasi bagi siapa saja yang ingin memanfaatkan bahan daur ulang secara kreatif dan berkelanjutan.
+
+Fitur AOL:
+Galeri Karya Daur Ulang: Menampilkan galeri karya-karya kreatif dari bahan daur ulang, seperti pakaian, tas, sepatu, furnitur, dan aksesoris. Setiap karya dilengkapi dengan cerita di balik pembuatannya, bahan yang digunakan, dan langkah-langkah pembuatan.
+
+Ide Proyek Daur Ulang: Menyediakan berbagai ide proyek daur ulang yang bisa dilakukan di rumah, mulai dari yang sederhana hingga yang lebih kompleks. Setiap proyek dilengkapi dengan panduan langkah demi langkah, daftar bahan, dan alat yang dibutuhkan.
+
+Video Tutorial: Menyediakan video tutorial yang menunjukkan proses pembuatan barang-barang dari bahan daur ulang, dipandu oleh ahli atau kreator yang berpengalaman.
